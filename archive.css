@@ -1,0 +1,39 @@
+body {
+  color: white;
+  background-color: #111;
+}
+
+/* Синтаксис CSS */
+
+/* селектор {
+  свойство: значение;
+} 
+
+  Типы селекторов:
+    1. Поиск по тегу
+    2. Поиск по классу
+    3. Поиск по id
+    
+*/
+
+/* Поиск по тегу */
+p {
+  font-size: 72px;
+}
+
+/* Поиск по классу */
+.text1 {
+  /* Инструкция, что будет делать CSS с тегом */
+  color: blueviolet;
+  font-size: 72px;
+}
+
+.text2 {
+  color: greenyellow;
+  font-size: 72px;
+}
+
+/* Поиск по id */
+#button {
+  color: blue;
+}
